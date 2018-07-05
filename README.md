@@ -36,11 +36,13 @@ It is up to the community to use the source code and deploy the Exchange smart c
 All the Website, Exchange and Token source code is open source and free to use, modify or deploy by anyone, but it should not be deployed until it is stable and bug free.
 
 
-Various bonuses:
-The Exchange may have a Beta tokens tab for upcoming Tokens, only users with DEX balance can access this part.
+### Distribution of the DEX tokens (100% for free)
 
-
-### Distribution of the DEX tokens (100%)
+During the DEX token creation the crowdsale was disabled by setting the start/finish time to invalid dates.
+Please note that the exchange rate that is displayed on the DEX Token information page in Tron explorers is invalid and means nothing since the crowdsale was disabled.
+It is not possible to buy DEX tokens on the tronscan blockchain explorer or anywhere else.
+Beware of impostors who copy developers name and profile pictures!
+Creator of this DEX token will never sell/buy any DEX token publicly neither privately!
 
 This is essentially a non-profit open source project, the developers work for free in their free time to create an exchange for the Tron community.
 The exchange will be a DEX (Decentralized Exchange), it has no costs, the goal is to collect no fees from the users (just enough fee that is necessary for the smart contract
