@@ -17,6 +17,16 @@ I think it is possible to create a new Decentralized Exchange that is fast and h
 
 ### DEX token possible use
 
+UPDATE:
+Tron Foundation mentioned recently that these TRX10 tokens (what DEX token is) don't have TVM functionality and can't be used with smart contracts, they forgot to mention this in the documentation. It is necessary to create a new custom token contract, these old TRX10 DEX tokens are invalid.
+
+This is the burn address for the old tokens: TTTTTTTTTTTTTTTTTTTTTTTTTTT11FTUs4
+This address owned by no one and nobody can access this.
+
+The release date for the new custom token contract is not specified yet, to make sure it is safe to use.
+When you receive it it may not show up in the transfer of your address only in the transactions.
+
+
 This Tron Decentralized Exchange consists of a Website, after the authentication of the user address it can connect to an Exchange address that is a deployed contract on the TRON network,
 this Exchange smart contract:
 - can modify its own state (add, remove new orders in the Sell/Buy order book)
